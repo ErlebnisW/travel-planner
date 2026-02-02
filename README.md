@@ -67,7 +67,7 @@ Travel Planner is an orchestration skill that deploys 5 specialized research age
 1. **Clone the repository:**
    ```bash
    cd ~/.claude/skills/
-   git clone https://github.com/YOUR_USERNAME/travel-planner.git
+   git clone https://github.com/ErlebnisW/travel-planner.git
    ```
 
 2. **Verify installation:**
@@ -375,8 +375,8 @@ MIT License - See LICENSE file for details
 
 ## Support
 
-- **Issues:** [GitHub Issues](https://github.com/YOUR_USERNAME/travel-planner/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/YOUR_USERNAME/travel-planner/discussions)
+- **Issues:** [GitHub Issues](https://github.com/ErlebnisW/travel-planner/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/ErlebnisW/travel-planner/discussions)
 - **Claude Code Help:** [Claude Code Documentation](https://github.com/anthropics/claude-code)
 
 ---
