@@ -60,7 +60,6 @@ Travel Planner is an orchestration skill that deploys 5 specialized research age
 
 - [Claude Code CLI](https://github.com/anthropics/claude-code) installed
 - Skills directory configured (`~/.claude/skills/` on macOS/Linux)
-- Internet connection for web research
 
 ### Install Steps
 
